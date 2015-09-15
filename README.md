@@ -16,3 +16,10 @@ Command line version [集中線メーカ](https://speedline.herokuapp.com/) in G
 
 - `-o` Output file name
 - `-color` Speed line color
+
+
+## Sample Output
+
+![gnu](image/gnu.gif)
+
+![emacs](image/emacs.gif)
