@@ -4,6 +4,12 @@ Command line version [集中線メーカ](https://speedline.herokuapp.com/) in G
 (Please see [http://hitode909.hatenablog.com/entry/2015/09/13/205925](http://hitode909.hatenablog.com/entry/2015/09/13/205925) if you don't know 集中線メーカ)
 
 
+## Installation
+
+```
+% go get github.com/syohex/speedline
+```
+
 ## Usage
 
 ```
