@@ -15,7 +15,7 @@ var (
 )
 
 func speedLine(mw *imagick.MagickWand, aw *imagick.MagickWand) error {
-	cols, rows := mw.GetImageHeight(), mw.GetImageWidth()
+	rows, cols := mw.GetImageHeight(), mw.GetImageWidth()
 
 	dw := imagick.NewDrawingWand()
 	defer dw.Destroy()
